@@ -1,0 +1,13 @@
+{
+    "Response":
+    "success":true,
+    "data": []
+    "Request" => {
+        "name":"string",
+        "priority":"MEDIUM"
+    }
+    "Response" => {
+        "success": true,
+        "message":"Category updated",
+    }
+}

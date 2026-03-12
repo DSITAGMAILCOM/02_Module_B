@@ -1,0 +1,19 @@
+{
+    "name":"string",
+    "email":"string",
+    "password":"string",
+    "role":"string"
+    "Response"{
+    "success":true,
+    "data":[]
+    "Response":{
+        "success":true,
+        "data":{
+            "id":2,
+            "name":"string",
+            "email":"string",
+            "role":"string",
+        }
+    }
+}
+}

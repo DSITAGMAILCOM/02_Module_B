@@ -1,0 +1,13 @@
+{
+    "Request":
+    {
+        "name":"string",
+        "priority":"string"
+    }
+    "Response":{
+        {
+            "success":true,
+            "message":"Category created"
+        }
+    }
+}

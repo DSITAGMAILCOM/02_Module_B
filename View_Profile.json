@@ -1,0 +1,125 @@
+{
+     "Response":{
+        "success":true,
+    "data":{
+        "id":2,
+        "name":"string",
+        "email":"string",
+        "role":"string"
+     }
+    
+}{
+    "Response":{
+        "id":"Interger",
+        "status":"Open"
+    }
+}{
+    "Response":{
+        "category_id":1,
+        "title":"string",
+        "description":"string",
+        "location":"string",
+    }
+    "Request":{
+        "success":true,
+        "request_id":"Integer",
+    }
+}{
+    "name":"string",
+    "email":"string",
+    "password":"string",
+    "role":"string"
+    "Response"{
+    "success":true,
+    "data":[]
+    "Response":{
+        "success":true,
+        "data":{
+            "id":2,
+            "name":"string",
+            "email":"string",
+            "role":"string",
+        }
+    }
+}
+}{
+    "name":"string",
+    "email":"string",
+    "password":"string",
+    "role":"string"
+    "Response"{
+    "success":true,
+    "data":[]
+    "Response":{
+        "success":true,
+        "data":{
+            "id":2,
+            "name":"string",
+            "email":"string",
+            "role":"string",
+        }
+    }
+}
+}{
+     "Response":{
+        "success":true,
+    "data":{
+        "id":2,
+        "name":"string",
+        "email":"string",
+        "role":"string"
+     }
+    
+}{
+    "Response":{
+        "id":"Interger",
+        "status":"Open"
+    }
+}{
+    "Response":{
+        "category_id":1,
+        "title":"string",
+        "description":"string",
+        "location":"string",
+    }
+    "Request":{
+        "success":true,
+        "request_id":"Integer",
+    }
+}{
+    "name":"string",
+    "email":"string",
+    "password":"string",
+    "role":"string"
+    "Response"{
+    "success":true,
+    "data":[]
+    "Response":{
+        "success":true,
+        "data":{
+            "id":2,
+            "name":"string",
+            "email":"string",
+            "role":"string",
+        }
+    }
+}
+}{
+    "name":"string",
+    "email":"string",
+    "password":"string",
+    "role":"string"
+    "Response"{
+    "success":true,
+    "data":[]
+    "Response":{
+        "success":true,
+        "data":{
+            "id":2,
+            "name":"string",
+            "email":"string",
+            "role":"string",
+        }
+    }
+}
+}
